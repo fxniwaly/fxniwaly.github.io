@@ -189,7 +189,7 @@
       <section class="site-overview-wrap sidebar-panel">
         <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
   <p class="site-author-name" itemprop="name">Iwaly</p>
-  <div class="site-description" itemprop="description"></div>
+  <div class="site-description" itemprop="description">C++, Python,DSPI</div>
 </div>
 <div class="site-state-wrap animated">
   <nav class="site-state">
@@ -259,7 +259,7 @@
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
       <meta itemprop="name" content="Iwaly">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="C++, Python,DSPI">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
